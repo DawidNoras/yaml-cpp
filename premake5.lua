@@ -11,6 +11,7 @@ project "yaml-cpp"
 		"include/**.h",
 		"src/**.h",
 		"src/**.cpp",
+		"**.natvis"
 	}
 
 	includedirs
